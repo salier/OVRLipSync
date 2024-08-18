@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OVRLipSyncEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProject\liptest\Intermediate\Build\Win64\x64\liptestEditor\Development\Engine\SharedPCH.Engine.Cpp17.h.obj"
+"D:\UnrealProject\liptest\Plugins\OVRLipSync\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRLipSyncEditor\Module.OVRLipSyncEditor.cpp.obj"
+"D:\UnrealProject\liptest\Plugins\OVRLipSync\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRLipSyncEditor\Default.rc2.res"
+/OUT:"D:\UnrealProject\liptest\Plugins\OVRLipSync\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRLipSyncEditor\UnrealEditor-OVRLipSyncEditor.lib"

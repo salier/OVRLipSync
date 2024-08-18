@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OVRLipSyncEditor.cpp.obj": [
+			"OVRLipSyncEditorModule.cpp.obj"
+		]
+	}
+}
