@@ -1,0 +1,1 @@
+This is an unofficial repository maintained by OVRLipSync. Currently, it supports 5.3 and 5.4. It follows the protocol of OVRLipSync SDK and does not provide technical support. Please refer to the instructions for usage https://developer.oculus.com/downloads/package/oculus-lipsync-unreal/
